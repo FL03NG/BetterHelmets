@@ -4,6 +4,6 @@
   "author": "FL03NG",
   "main": "mod.js",
   "license": "GPL-3.0",
-  "akiVersion": "3.11.0",
-  "sptVersion": "3.11.0"
+  "akiVersion": "3.11",
+  "sptVersion": "3.11"
 }
