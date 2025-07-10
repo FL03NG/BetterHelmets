@@ -21,7 +21,7 @@ const BetterHelmetsCombined = {
             { name: "Caiman Nape", id: "657bbb31b30eca9763051183", newArmor: 4 },
 
             { name: "SSSh-94 SFERA-S Helmet", id: "657bb70486c7f9ef7a009936", fleaMult: 4, traderMult: 4, weightMult: 1.2, deafMult: 0.7 },
-            { name: "SFERA-S Top", id: "657bb70486c7f9ef7a009936", newArmor: 4 },
+            { name: "SFERA-S Top", id: "657bb752a1c61ee0c3036315", newArmor: 4 },
             { name: "SFERA-S Nape", id: "657bb79ba1c61ee0c303631a", newArmor: 4 },
             { name: "SFERA-S Ears", id: "657bb7d7b30eca9763051176", newArmor: 4 },
 
